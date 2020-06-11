@@ -10,4 +10,6 @@ public class LuckyNumberDTO {
     private String name;
 
     private int luckyNumber;
+
+    private String luckyColor;
 }
